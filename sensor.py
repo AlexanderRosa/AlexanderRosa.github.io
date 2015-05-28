@@ -17,4 +17,4 @@ for i in range(1,10) :
  if random(1,2) ==1:
   turn_right()
 else:
-  turn_lefft()
+  turn_left()
